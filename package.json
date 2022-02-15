@@ -20,5 +20,8 @@
     "ethereum-waffle": "^3.4.0",
     "hardhat": "^2.8.4",
     "solidity-coverage": "^0.7.19"
+  },
+  "dependencies": {
+    "git-cz": "^4.8.0"
   }
 }
